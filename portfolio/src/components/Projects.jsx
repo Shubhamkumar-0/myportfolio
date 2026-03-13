@@ -1,6 +1,6 @@
 function Projects() {
   return (
-    <section className="bg-gray-950 text-white py-20">
+    <section id="projects" className="bg-gray-950 scroll-mt-20 text-white py-20">
 
       <div className="max-w-6xl mx-auto">
 

@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <section className="bg-gray-900 text-white py-20">
+    <section id="contact" className="bg-gray-900 scroll-mt-20 text-white py-20">
 
       <div className="max-w-xl mx-auto text-center">
 
@@ -12,9 +12,10 @@ function Contact() {
           Let's connect and build something amazing.
         </p>
 
-        <button className="bg-blue-500 px-6 py-2 rounded hover:bg-blue-600">
+        <a href="mailto:shubhamkumarhrt1@gmail.com"
+          className="bg-blue-500 px-6 py-2 rounded hover:bg-blue-600 inline-block">
           Email Me
-        </button>
+        </a>
 
       </div>
 

@@ -2,7 +2,7 @@ import { FaReact, FaJs, FaHtml5, FaCss3Alt, FaGitAlt } from "react-icons/fa"
 
 function Skills() {
   return (
-    <section className="bg-gray-900 text-white py-20">
+    <section id="skills" className="bg-gray-900 scroll-mt-20 text-white py-20">
 
       <div className="max-w-6xl mx-auto text-center">
 
