@@ -1,0 +1,8 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+
+body, a, button, input, textarea, select {
+  cursor: none !important;
+}
