@@ -4,6 +4,7 @@ import ruralImage from "../assets/project-image/rural-image.png"
 import skillIndiaImage from "../assets/project-image/skill-india.png"
 import financeTrackerImage from "../assets/project-image/finance-tracker.png"
 
+// 
 function Projects({ darkMode }) {
   const projects = [
     {
