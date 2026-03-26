@@ -102,7 +102,7 @@ function About({ darkMode }) {
               
               <div className="flex flex-col gap-8">
                 <p className={`text-xl font-light leading-relaxed ${darkMode ? "text-gray-400" : "text-gray-600"}`}>
-                  Hello! I'm <span className={`${darkMode ? "text-white" : "text-gray-900"} font-medium`}>Shubham Kumar</span>, a dedicated Computer Science undergraduate at <span className="text-red-600 font-bold">Lovely Professional University</span>. 
+                  Hello! I'm <span className={`${darkMode ? "text-white" : "text-gray-900"} font-medium`}>Shubham Kumar</span>,3rd year Computer Science undergraduate studentat <span className="text-red-600 font-bold">Lovely Professional University</span>. 
                 </p>
                 <p className={`text-lg font-light leading-relaxed ${darkMode ? "text-gray-500" : "text-gray-500"}`}>
                   My digital journey began with a deep curiosity for how things work behind the screen, evolving into a profound passion for software engineering. Whether I'm optimizing a complex DSA algorithm or hunting down hidden bugs, I believe writing code is about crafting experiences that leave a lasting impact.
