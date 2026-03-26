@@ -27,11 +27,11 @@ function App() {
         <Hero darkMode={darkMode} />
         <About darkMode={darkMode} />
         <Skills darkMode={darkMode} />
-        <Education darkMode={darkMode} />
         <Projects darkMode={darkMode} />
         <Training darkMode={darkMode} />
         <Certification darkMode={darkMode} />
         <Achievements darkMode={darkMode} />
+        <Education darkMode={darkMode} />
         <Contact darkMode={darkMode} />
       </main>
       <Footer darkMode={darkMode} />
