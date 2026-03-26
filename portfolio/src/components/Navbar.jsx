@@ -19,11 +19,11 @@ function Navbar({ darkMode, toggleDarkMode }) {
     { name: "Home", href: "#home" },
     { name: "About", href: "#about" },
     { name: "Skills", href: "#skills" },
-    { name: "Education", href: "#education" },
     { name: "Projects", href: "#projects" },
     { name: "Training", href: "#training" },
     { name: "Certs.", href: "#certification" },
     { name: "Stats", href: "#achievements" },
+    { name: "Education", href: "#education" },
     { name: "Contact", href: "#contact" },
   ];
 
