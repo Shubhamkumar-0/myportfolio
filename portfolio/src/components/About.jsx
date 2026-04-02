@@ -66,7 +66,7 @@ function About({ darkMode }) {
               <img 
                 src={image} 
                 alt="Shubham Kumar" 
-                className={`relative w-full aspect-[3/4] md:aspect-[4/5] object-cover rounded-[3rem] border shadow-2xl transition-colors duration-500 ${
+                className={`relative w-full aspect-[3/4] md:aspect-[4/5] object-cover object-top rounded-[3rem] border shadow-2xl transition-colors duration-500 ${
                   darkMode ? "border-gray-800 shadow-black/50" : "border-gray-100 shadow-red-50/50"
                 }`}
               />

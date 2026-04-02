@@ -97,7 +97,7 @@ function Contact({ darkMode }) {
               >
                 <div className="absolute inset-0 bg-red-600 rounded-full blur-[20px] opacity-40 animate-pulse"></div>
                 <div className={`w-36 h-36 rounded-full border-4 ${darkMode ? "border-gray-800" : "border-gray-50"} overflow-hidden relative shadow-2xl`}>
-                  <img src={portfolioImage} alt="Shubham Kumar" className="w-full h-full object-cover" />
+                  <img src={portfolioImage} alt="Shubham Kumar" className="w-full h-full object-cover object-top" />
                 </div>
               </motion.div>
               
